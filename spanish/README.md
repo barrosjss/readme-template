@@ -1,11 +1,10 @@
-# Nombre de producto
-> Breve descripción de lo que hace tu producto.
+# Título del proyecto
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-Uno o dos párrafos sobre tu producto y el problema que resuelve.
+Describa en pocas palabras qué hace tu proyecto y para qué se utiliza.
 
 ![](../header.png)
 
@@ -35,21 +34,6 @@ Describe como instalar todas las dependencias y como ejecutar la batería de tes
 make install
 npm test
 ```
-
-## Historial de versiones
-
-* 0.2.1
-    * CAMBIO: Actualizada la documentación (el módulo de código permanece igual)
-* 0.2.0
-    * CAMBIO: Eliminado `setDefaultXYZ()`
-    * AÑADIDO: Añadido `init()`
-* 0.1.1
-    * ARREGLADO: Cuelgue cuando se llama a `baz()` (Gracias a  @NombreDelAmableContribuidor!)
-* 0.1.0
-    * La primera release
-    * CAMBIO: Renombrado `foo()` a `bar()`
-* 0.0.1
-    * Trabajo en progreso
 
 ## Meta
 
